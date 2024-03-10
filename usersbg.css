@@ -1,0 +1,25 @@
+
+
+.user-screen {
+    background-image: url("./usersbg.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 5;
+  }
+
+
+  .user-screen h1 {
+    font-weight: bold;
+  }
+  
+  .user-screen th {
+    font-weight: bold;
+  }
+  
+  .user-screen td {
+    font-weight: bold;
+  }
